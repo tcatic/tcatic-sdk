@@ -1,6 +1,14 @@
 ## Lord of The Rings SDK
 
-This module implements the Lord of The Rings API that can be found under https://the-one-api.dev/v2. The module can be imported and used in your code as:
+This module implements the Lord of The Rings API that can be found under https://the-one-api.dev/v2
+
+## How to install and use it
+
+```bash
+npm install tarik-catic-sdk
+```
+
+The module can be imported and used in your code as:
 ```javascript
 import { LotrSdk } from 'tarik-catic-sdk';
 // Create a LotrSdk instance with your bearer token from `the-one-api`
