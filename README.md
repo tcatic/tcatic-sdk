@@ -2,7 +2,7 @@
 
 This module implements the Lord of The Rings API that can be found under https://the-one-api.dev/v2. The module can be imported and used in your code as:
 ```javascript
-import { LotrSdk } from 'tcatic-sdk';
+import { LotrSdk } from 'tarik-catic-sdk';
 // Create a LotrSdk instance with your bearer token from `the-one-api`
 const lotrSdk = new LotrSdk('your-api-key');
 
